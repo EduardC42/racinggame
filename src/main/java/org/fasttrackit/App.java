@@ -50,5 +50,9 @@ public class App {
         System.out.println("car2.name:  " +  car2.name);
         System.out.println("car3.name:  "  + car3.name);
 
+        // example for NullPointerExceptoin
+        // car car4 =null;
+      //  System.out.println(car4.name);
+
     }
 }
